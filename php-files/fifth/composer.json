@@ -1,0 +1,14 @@
+{
+  "name":"",
+  "description": "",
+  "keywords": [],
+  "license": "",
+  "type": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+}
